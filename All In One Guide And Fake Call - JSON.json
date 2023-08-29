@@ -9,13 +9,13 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "max": true,
+  "max": false,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
   "unity_rewarded_id": "xxxx",
   "unity_app_id": "xxxx",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -54,17 +54,17 @@
   
   
   
-  "fore_user_to_collect_coins_to_start": true,
+  "fore_user_to_collect_coins_to_start": false,
   
   "fore_user_to_rate_app": false,
   
-  "rating_exit_popup": true,
+  "rating_exit_popup": false,
   
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   
-  "show_cpa": true,
+  "show_cpa": false,
   "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
   "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
   "cpa_button_text": "Get It Now!",
@@ -77,19 +77,19 @@
   "suspended_URL": "xxxx",
 
 
-  "show_app_1": true,
+  "show_app_1": false,
   "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
   "app_title_1": "Parchisi STAR Online",
   "app_desc_1": "Parchisi STAR is an online multiplayer game.",
   "app_url_1": "com.superking.parchisi.star",
   
-  "show_app_2": true,
+  "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
   "app_title_2": "8 Ball Pool",
   "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
   "app_url_2": "com.miniclip.eightballpool",
   
-  "show_app_3": true,
+  "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
