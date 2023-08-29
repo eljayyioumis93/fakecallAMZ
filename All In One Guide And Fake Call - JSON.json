@@ -1,6 +1,6 @@
 {
 	
-  "ironsource_app_key": "10418ab31",
+  "ironsource_app_key": "000000000",
   "ironsource_banner_id": "DefaultBanner",
   "ironsource_interstitial_id": "DefaultInterstitial",
   "ironsource_rewarded_id": "DefaultRewardedVideo",
@@ -17,11 +17,11 @@
   "unity_app_id": "xxxx",
   "is_unity_test_mode": false,
   
-  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native": "ca-app-pub-3940256099942544/2247696110",
-  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "admob_open_app": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner": "ca-app-pub",
+  "admob_interstitial": "ca-app-pub",
+  "admob_native": "ca-app-pub",
+  "admob_rewarded": "ca-app-pub",
+  "admob_open_app": "ca-app-pub",
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
