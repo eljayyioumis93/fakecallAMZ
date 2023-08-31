@@ -268,6 +268,27 @@
 	}
   ]  ,
 
+"videos": [
+
+	{
+	
+	 "youtube_video_id": "H-S_bT_r9Wg",
+	 "image_cover": "https://i.ytimg.com/vi/LRMTr2VZcr8/maxresdefault.jpg"
+	},
+	{
+	 "youtube_video_id": "QvKNr5PoYxw",
+	 "image_cover": "https://p325k7wa.twic.pics/high/paw-patrol/paw-patrol-on-the-roll/00-page-setup/paw-patrol-otr_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80"
+	},
+	{
+	 "youtube_video_id": "f3KYZTgw-HA",
+	 "image_cover": "https://tvline.com/wp-content/uploads/2020/07/paw-patrol-not-cancelled.jpg?w=620&h=420&crop=1"
+	},
+	{
+	 "youtube_video_id": "_odwT14rPnQ",
+	 "image_cover": "https://deadline.com/wp-content/uploads/2020/02/paw-patrol-2.png?w=1024"
+	}
+  ]  
+}
 
 
 
