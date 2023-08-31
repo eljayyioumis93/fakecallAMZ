@@ -58,7 +58,7 @@
   
   "fore_user_to_rate_app": false,
   
-  "rating_exit_popup": true,
+  "rating_exit_popup": false,
   
   
   "clicks_to_show_inter": 20,
