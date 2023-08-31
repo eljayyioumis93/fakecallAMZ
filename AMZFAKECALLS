@@ -194,26 +194,28 @@
 	 
 	}
 	] ,
+
+
 	
 	"quizes": [
 	{
 		
-	 "question": "how many pyramides are in egypte?",
+	 "question": "Is mistletoe often used as a decoration during the Christmas season?",
       
-	 "answer_1": "Three pyramides",
-	 "answer_2": "four pyramides",
-	 "answer_3": "five pyramides",
+	 "answer_1": "Christmas decor",
+	 "answer_2": "Halloween decor",
+	 "answer_3": "Easter decor",
 	 
 	 "correct": 1
       
 	},
 	{
 	  
-	 "question": "What is Choo Choo Charles?",
+	 "question": "Is the New Year's Eve ball drop a tradition that takes place in Times Square, New York City?",
       
-	 "answer_1": "Spider Train",
-	 "answer_2": "Spider Man",
-	 "answer_3": "Spider Car",
+	 "answer_1": "Times Square",
+	 "answer_2": "False: Central Park",
+	 "answer_3": "False: Disneyland",
 	 
 
 	 "correct": 1
@@ -221,23 +223,11 @@
 	},
 	{
 	  
-	 "question": "What is 1X Bet",
+	 "question": "Is Rudolph the Red-Nosed Reindeer one of Santa's reindeer known for its blue nose?",
       
-	 "answer_1": "A dating app",
-	 "answer_2": "A betting app",
-	 "answer_3": "A cooking app",
-	 
-
-	 "correct": 2
-      
-	},
-	{
-	  
-	 "question": "Which one doesn't belong to Poppy Playtime?",
-      
-	 "answer_1": "Huggy Wuggy",
-	 "answer_2": "Kissy Missy",
-	 "answer_3": "The Man From The Window",
+	 "answer_1": "",
+	 "answer_2": "False",
+	 "answer_3": "True",
 	 
 
 	 "correct": 3
@@ -245,28 +235,42 @@
 	},
 	{
 	  
-	 "question": "How many USLs does Real Madrid have?",
+	 "question": "Is the celebration of New Year's Eve typically on January 1st?",
       
-	 "answer_1": "13 Champions Leage",
-	 "answer_2": "12 Champions Leage",
-	 "answer_3": "14 Champions Leage",
+	 "answer_1": "December 31st",
+	 "answer_2": "February 1st",
+	 "answer_3": "November 30th",
 	 
 
-	 "correct": 3
+	 "correct": 1
+      
+	},
+	{
+	  
+	 "question": "Does Santa Claus deliver presents to children around the world on Christmas Eve?",
+      
+	 "answer_1": "Christmas Eve",
+	 "answer_2": "Christmas Day",
+	 "answer_3": "Only home country",
+	 
+
+	 "correct": 1
       
 	},
 	{
 	 
-	 "question": "Which one is a programming language?",
+	 "question": "Is Santa Claus known for wearing green clothing during Christmas?",
      
-	 "answer_1": "English",
-	 "answer_2": "Kotlin",
-	 "answer_3": "Arabic",
+	 "answer_1": "No",
+	 "answer_2": "Yes",
+	 "answer_3": "Maybe",
 	 
 	 "correct": 2
       
 	}
   ]  ,
+
+
 	
 	
 	"videos": [
