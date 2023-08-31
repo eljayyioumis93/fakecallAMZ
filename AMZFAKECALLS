@@ -46,7 +46,7 @@
   "show_tips": true,
   "show_fake_call": true,
   
-  "show_videos_btn": true,
+  "show_videos_btn": false,
   
   "show_quiz": true,
   "show_spin": true,
