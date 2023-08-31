@@ -1,6 +1,6 @@
-
+{
 	
-  "ironsource_app_key": "000000000",
+  "ironsource_app_key": "10418ab31",
   "ironsource_banner_id": "DefaultBanner",
   "ironsource_interstitial_id": "DefaultInterstitial",
   "ironsource_rewarded_id": "DefaultRewardedVideo",
@@ -17,11 +17,11 @@
   "unity_app_id": "xxxx",
   "is_unity_test_mode": false,
   
-  "admob_banner": "0000000",
-  "admob_interstitial": "0000000",
-  "admob_native": "0000000000000",
-  "admob_rewarded": "0000000",
-  "admob_open_app": "0000000000",
+  "admob_banner": "00",
+  "admob_interstitial": "00",
+  "admob_native": "00",
+  "admob_rewarded": "00",
+  "admob_open_app": "00",
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -43,7 +43,7 @@
   
   
  
-  "show_tips": true,
+  "show_tips": false,
   "show_fake_call": true,
   
   "show_videos_btn": false,
@@ -58,16 +58,16 @@
   
   "fore_user_to_rate_app": false,
   
-  "rating_exit_popup": false,
+  "rating_exit_popup": true,
   
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 20,
+  "native_rate": 20,
   
   "show_cpa": false,
   "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
-  "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
-  "cpa_button_text": "Get It Now!",
+  "cpa_url": "https://docmehaji.com",
+  "cpa_button_text": "Get It !",
   
   
   
@@ -91,7 +91,7 @@
   
   "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
-  "app_title_3": "Plants vs. Zombies™",
+  "app_title_3": "Plants vs. Zombies™️",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
   "app_url_3": "com.ea.game.pvzfree_row",
 
@@ -124,9 +124,9 @@
 	 
 	 "likes": 5067,
 	 
-	 "isWebUI": true,
+	 "isWebUI": false,
 	 "web_url": "https://html5.gamedistribution.com/1a78f9d4787b4443953a304385e6da69/?",
-	 "isWeb": true
+	 "isWeb": false
 	 
 	},
 	{
@@ -135,7 +135,7 @@
 	 "text": "This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text",
 	 "text_two": "- Easy to play, dash, run, jump and collect coins while running: Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner. Fly with a hang glider and collect the coins in the air in this endless running game.",
 
-	 "isLocked": true,
+	 "isLocked": false,
 	 "id": 3,
 	 
 	 "likes": 4016,
@@ -198,22 +198,22 @@
 	"quizes": [
 	{
 		
-	 "question": "Is mistletoe often used as a decoration during the Christmas season?",
+	 "question": "how many pyramides are in egypte?",
       
-	 "answer_1": "Christmas decor",
-	 "answer_2": "Halloween decor",
-	 "answer_3": "Easter decor",
+	 "answer_1": "Three pyramides",
+	 "answer_2": "four pyramides",
+	 "answer_3": "five pyramides",
 	 
 	 "correct": 1
       
 	},
 	{
 	  
-	 "question": "Is the New Year's Eve ball drop a tradition that takes place in Times Square, New York City?",
+	 "question": "What is Choo Choo Charles?",
       
-	 "answer_1": "Times Square",
-	 "answer_2": "False: Central Park",
-	 "answer_3": "False: Disneyland",
+	 "answer_1": "Spider Train",
+	 "answer_2": "Spider Man",
+	 "answer_3": "Spider Car",
 	 
 
 	 "correct": 1
@@ -221,11 +221,23 @@
 	},
 	{
 	  
-	 "question": "Is Rudolph the Red-Nosed Reindeer one of Santa's reindeer known for its blue nose?",
+	 "question": "What is 1X Bet",
       
-	 "answer_1": "",
-	 "answer_2": "False",
-	 "answer_3": "True",
+	 "answer_1": "A dating app",
+	 "answer_2": "A betting app",
+	 "answer_3": "A cooking app",
+	 
+
+	 "correct": 2
+      
+	},
+	{
+	  
+	 "question": "Which one doesn't belong to Poppy Playtime?",
+      
+	 "answer_1": "Huggy Wuggy",
+	 "answer_2": "Kissy Missy",
+	 "answer_3": "The Man From The Window",
 	 
 
 	 "correct": 3
@@ -233,47 +245,32 @@
 	},
 	{
 	  
-	 "question": "Is the celebration of New Year's Eve typically on January 1st?",
+	 "question": "How many USLs does Real Madrid have?",
       
-	 "answer_1": "December 31st",
-	 "answer_2": "February 1st",
-	 "answer_3": "November 30th",
+	 "answer_1": "13 Champions Leage",
+	 "answer_2": "12 Champions Leage",
+	 "answer_3": "14 Champions Leage",
 	 
 
-	 "correct": 1
-      
-	},
-	{
-	  
-	 "question": "Does Santa Claus deliver presents to children around the world on Christmas Eve?",
-      
-	 "answer_1": "Christmas Eve",
-	 "answer_2": "Christmas Day",
-	 "answer_3": "Only home country",
-	 
-
-	 "correct": 1
+	 "correct": 3
       
 	},
 	{
 	 
-	 "question": "Is Santa Claus known for wearing green clothing during Christmas?",
+	 "question": "Which one is a programming language?",
      
-	 "answer_1": "No",
-	 "answer_2": "Yes",
-	 "answer_3": "Maybe",
+	 "answer_1": "English",
+	 "answer_2": "Kotlin",
+	 "answer_3": "Arabic",
 	 
 	 "correct": 2
       
 	}
   ]  ,
-
-
-
-"videos": [
-
-	{
 	
+	
+	"videos": [
+	{
 	 "youtube_video_id": "H-S_bT_r9Wg",
 	 "image_cover": "https://i.ytimg.com/vi/LRMTr2VZcr8/maxresdefault.jpg"
 	},
